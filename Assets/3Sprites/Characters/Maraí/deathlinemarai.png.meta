@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: f6ad7a3eb16c67b4f90b145e61bb9885
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 354490557322680993
+    second: deathlinemarai_0
+  - first:
+      213: 14129203236845922
+    second: deathlinemarai_1
+  - first:
+      213: 7885680172499658804
+    second: deathlinemarai_2
+  - first:
+      213: -2359075090374128859
+    second: deathlinemarai_3
+  - first:
+      213: 207284446385161339
+    second: deathlinemarai_4
+  - first:
+      213: 5009445446649206364
+    second: deathlinemarai_5
+  - first:
+      213: -5532581397620902896
+    second: deathlinemarai_6
+  - first:
+      213: -6944695556770799282
+    second: deathlinemarai_7
+  - first:
+      213: -1379727363942413802
+    second: deathlinemarai_8
+  - first:
+      213: -5398883102452819691
+    second: deathlinemarai_9
+  - first:
+      213: 3057878837849362485
+    second: deathlinemarai_10
+  - first:
+      213: 5822905466890329436
+    second: deathlinemarai_11
+  - first:
+      213: 8743406580454556731
+    second: deathlinemarai_12
+  - first:
+      213: 2403230133471682545
+    second: deathlinemarai_13
+  - first:
+      213: -1177767111811060816
+    second: deathlinemarai_14
+  - first:
+      213: -2266256250056255200
+    second: deathlinemarai_15
+  - first:
+      213: 510998602352985819
+    second: deathlinemarai_16
+  - first:
+      213: 1615759660568512202
+    second: deathlinemarai_17
+  - first:
+      213: -2172767500356383883
+    second: deathlinemarai_18
+  - first:
+      213: 1809878629551726871
+    second: deathlinemarai_19
+  - first:
+      213: -7645638450310953511
+    second: deathlinemarai_20
+  - first:
+      213: -1727654186197623035
+    second: deathlinemarai_21
+  - first:
+      213: -2295474538729985315
+    second: deathlinemarai_22
+  - first:
+      213: 598965677524614771
+    second: deathlinemarai_23
+  - first:
+      213: 2550128796103325877
+    second: deathlinemarai_24
+  - first:
+      213: 2282509488358702125
+    second: deathlinemarai_25
+  - first:
+      213: 6409803228283247628
+    second: deathlinemarai_26
+  - first:
+      213: -1151153981771560678
+    second: deathlinemarai_27
+  - first:
+      213: -8757094375919838240
+    second: deathlinemarai_28
+  - first:
+      213: 3194538579221000515
+    second: deathlinemarai_29
+  - first:
+      213: -8578984214131471624
+    second: deathlinemarai_30
+  - first:
+      213: -2917481418391949331
+    second: deathlinemarai_31
+  - first:
+      213: 951160323055417265
+    second: deathlinemarai_32
+  - first:
+      213: -7961621021742210619
+    second: deathlinemarai_33
+  - first:
+      213: 8895193203303995913
+    second: deathlinemarai_34
+  - first:
+      213: 7744439531881275148
+    second: deathlinemarai_35
+  - first:
+      213: 4161756589510062474
+    second: deathlinemarai_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deathlinemarai_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 46
+        width: 189
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad271a8476be400800000000000000
+      internalID: 354490557322680993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 46
+        width: 209
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ee2636509f6d60800000000000000
+      internalID: 7885680172499658804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 46
+        width: 219
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0143fdf18825833b0800000000000000
+      internalID: -5532581397620902896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_7
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 46
+        width: 279
+        height: 309
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4161798f2c7f9f90800000000000000
+      internalID: -6944695556770799282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_8
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 46
+        width: 279
+        height: 309
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8359c5493adce0800000000000000
+      internalID: -1379727363942413802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_9
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 46
+        width: 279
+        height: 304
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519d07e3c605315b0800000000000000
+      internalID: -5398883102452819691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_12
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 46
+        width: 224
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348ecad5f1d65970800000000000000
+      internalID: 8743406580454556731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_16
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 46
+        width: 234
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd688fd758e671700800000000000000
+      internalID: 510998602352985819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_17
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 46
+        width: 254
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac68792c9d45c6610800000000000000
+      internalID: 1615759660568512202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_22
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 66
+        width: 247
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaab08a116d420e0800000000000000
+      internalID: -2295474538729985315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_25
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 81
+        width: 194
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c3412594a1daf10800000000000000
+      internalID: 2282509488358702125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_28
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 81
+        width: 144
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb1abaef0d887680800000000000000
+      internalID: -8757094375919838240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinemarai_32
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 81
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7f92c3643333d00800000000000000
+      internalID: 951160323055417265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

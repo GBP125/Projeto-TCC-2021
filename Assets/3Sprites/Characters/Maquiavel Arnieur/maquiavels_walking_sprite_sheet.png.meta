@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 7389ceee1b81ce44cbc7f5d7cfaa319d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5880562381499169568
+    second: maquiavels_walking_sprite_sheet_0
+  - first:
+      213: -2985814305860553797
+    second: maquiavels_walking_sprite_sheet_1
+  - first:
+      213: 2254273181391758976
+    second: maquiavels_walking_sprite_sheet_2
+  - first:
+      213: -734916390635305980
+    second: maquiavels_walking_sprite_sheet_3
+  - first:
+      213: 8988872878869247593
+    second: maquiavels_walking_sprite_sheet_4
+  - first:
+      213: -7632991120281930518
+    second: maquiavels_walking_sprite_sheet_5
+  - first:
+      213: -3706487475806202518
+    second: maquiavels_walking_sprite_sheet_6
+  - first:
+      213: -1162042033191251339
+    second: maquiavels_walking_sprite_sheet_7
+  - first:
+      213: 7967341026113013835
+    second: maquiavels_walking_sprite_sheet_8
+  - first:
+      213: 7553745795711128217
+    second: maquiavels_walking_sprite_sheet_9
+  - first:
+      213: -8383750671168162996
+    second: maquiavels_walking_sprite_sheet_10
+  - first:
+      213: -3589343663870612015
+    second: maquiavels_walking_sprite_sheet_11
+  - first:
+      213: 857340821899305893
+    second: maquiavels_walking_sprite_sheet_12
+  - first:
+      213: -8119008145638279383
+    second: maquiavels_walking_sprite_sheet_13
+  - first:
+      213: 7229345074326080845
+    second: maquiavels_walking_sprite_sheet_14
+  - first:
+      213: -8542555741752920931
+    second: maquiavels_walking_sprite_sheet_15
+  - first:
+      213: -8710954578609269221
+    second: maquiavels_walking_sprite_sheet_16
+  - first:
+      213: 2899589134026969838
+    second: maquiavels_walking_sprite_sheet_17
+  - first:
+      213: -1567284265913952535
+    second: maquiavels_walking_sprite_sheet_19
+  - first:
+      213: -7724488171342745542
+    second: maquiavels_walking_sprite_sheet_20
+  - first:
+      213: 1171416286309126754
+    second: maquiavels_walking_sprite_sheet_21
+  - first:
+      213: -7975007105325905501
+    second: maquiavels_walking_sprite_sheet_22
+  - first:
+      213: -7255997835840497441
+    second: maquiavels_walking_sprite_sheet_23
+  - first:
+      213: 3443770162430065928
+    second: maquiavels_walking_sprite_sheet_24
+  - first:
+      213: 1417701430511837450
+    second: maquiavels_walking_sprite_sheet_25
+  - first:
+      213: 2717602520299431782
+    second: maquiavels_walking_sprite_sheet_26
+  - first:
+      213: -8901194872883583877
+    second: maquiavels_walking_sprite_sheet_27
+  - first:
+      213: 4569061164715387397
+    second: maquiavels_walking_sprite_sheet_28
+  - first:
+      213: -3587668333018758921
+    second: maquiavels_walking_sprite_sheet_29
+  - first:
+      213: 5383042283493048043
+    second: maquiavels_walking_sprite_sheet_30
+  - first:
+      213: -6724471194617809634
+    second: maquiavels_walking_sprite_sheet_31
+  - first:
+      213: -4745247831980411207
+    second: maquiavels_walking_sprite_sheet_32
+  - first:
+      213: 7460221937359343257
+    second: maquiavels_walking_sprite_sheet_33
+  - first:
+      213: 318784406569151443
+    second: maquiavels_walking_sprite_sheet_35
+  - first:
+      213: 4072047513006255794
+    second: maquiavels_walking_sprite_sheet_36
+  - first:
+      213: 6598709923472740828
+    second: maquiavels_walking_sprite_sheet_37
+  - first:
+      213: -4848027905518612271
+    second: maquiavels_walking_sprite_sheet_38
+  - first:
+      213: -6950513787398391074
+    second: maquiavels_walking_sprite_sheet_39
+  - first:
+      213: -983031698179034774
+    second: maquiavels_walking_sprite_sheet_40
+  - first:
+      213: 4758933441949654254
+    second: maquiavels_walking_sprite_sheet_41
+  - first:
+      213: -2199131454221257763
+    second: maquiavels_walking_sprite_sheet_42
+  - first:
+      213: -1435321561237665295
+    second: maquiavels_walking_sprite_sheet_44
+  - first:
+      213: 266988133839777901
+    second: maquiavels_walking_sprite_sheet_45
+  - first:
+      213: 2030597467501641545
+    second: maquiavels_walking_sprite_sheet_46
+  - first:
+      213: -5289273816657699334
+    second: maquiavels_walking_sprite_sheet_47
+  - first:
+      213: 4081227312239810215
+    second: maquiavels_walking_sprite_sheet_48
+  - first:
+      213: -1123892849796526393
+    second: maquiavels_walking_sprite_sheet_49
+  - first:
+      213: -7552484890422558365
+    second: maquiavels_walking_sprite_sheet_50
+  - first:
+      213: -8336482251269019103
+    second: maquiavels_walking_sprite_sheet_51
+  - first:
+      213: 432032198535666910
+    second: maquiavels_walking_sprite_sheet_52
+  - first:
+      213: 9157582666721654259
+    second: maquiavels_walking_sprite_sheet_53
+  - first:
+      213: -1911510122119340730
+    second: maquiavels_walking_sprite_sheet_54
+  - first:
+      213: 610131326166478562
+    second: maquiavels_walking_sprite_sheet_55
+  - first:
+      213: 5934639722860985085
+    second: maquiavels_walking_sprite_sheet_56
+  - first:
+      213: 8755695489602221163
+    second: maquiavels_walking_sprite_sheet_57
+  - first:
+      213: -5870535851824668068
+    second: maquiavels_walking_sprite_sheet_58
+  - first:
+      213: 5245185265410790472
+    second: maquiavels_walking_sprite_sheet_60
+  - first:
+      213: 8659173962355909925
+    second: maquiavels_walking_sprite_sheet_61
+  - first:
+      213: -3179315598106639179
+    second: maquiavels_walking_sprite_sheet_62
+  - first:
+      213: 5551105785478010741
+    second: maquiavels_walking_sprite_sheet_63
+  - first:
+      213: 5172972501405571829
+    second: maquiavels_walking_sprite_sheet_65
+  - first:
+      213: -9062381883297650571
+    second: maquiavels_walking_sprite_sheet_66
+  - first:
+      213: -1520773767311187165
+    second: maquiavels_walking_sprite_sheet_67
+  - first:
+      213: -1317796251825688136
+    second: maquiavels_walking_sprite_sheet_68
+  - first:
+      213: -7463638678470248032
+    second: maquiavels_walking_sprite_sheet_69
+  - first:
+      213: -7455301061501226776
+    second: maquiavels_walking_sprite_sheet_70
+  - first:
+      213: 6752425489989615673
+    second: maquiavels_walking_sprite_sheet_71
+  - first:
+      213: -629304970541808961
+    second: maquiavels_walking_sprite_sheet_72
+  - first:
+      213: -441330561485877916
+    second: maquiavels_walking_sprite_sheet_74
+  - first:
+      213: 6525547167329047814
+    second: maquiavels_walking_sprite_sheet_75
+  - first:
+      213: 6479673983613498559
+    second: maquiavels_walking_sprite_sheet_76
+  - first:
+      213: 6090260167340458223
+    second: maquiavels_walking_sprite_sheet_77
+  - first:
+      213: 5046244478681688731
+    second: maquiavels_walking_sprite_sheet_78
+  - first:
+      213: 8623369726346474702
+    second: maquiavels_walking_sprite_sheet_79
+  - first:
+      213: 3902939710253286751
+    second: maquiavels_walking_sprite_sheet_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maquiavels_walking_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 22
+        width: 451
+        height: 946
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f948fb05a6b41ce0800000000000000
+      internalID: -1435321561237665295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquiavels_walking_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 22
+        width: 451
+        height: 946
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f3e3c53a12e2c10800000000000000
+      internalID: 2030597467501641545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquiavels_walking_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 28
+        width: 451
+        height: 946
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd75ecc79b896b0800000000000000
+      internalID: -5289273816657699334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquiavels_walking_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 22
+        width: 451
+        height: 946
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cec64268612760f0800000000000000
+      internalID: -1123892849796526393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquiavels_walking_sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 33
+        width: 451
+        height: 946
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57758060d4d790d40800000000000000
+      internalID: 5551105785478010741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

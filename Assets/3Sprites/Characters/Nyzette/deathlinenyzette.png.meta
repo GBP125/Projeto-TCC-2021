@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 413c2cde9615184448908b5cdc20fc68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4202690633854274053
+    second: deathlinenyzette_0
+  - first:
+      213: -6865056515879777726
+    second: deathlinenyzette_1
+  - first:
+      213: -2723960691597506630
+    second: deathlinenyzette_2
+  - first:
+      213: -1137372095280416505
+    second: deathlinenyzette_3
+  - first:
+      213: 190893159531943741
+    second: deathlinenyzette_4
+  - first:
+      213: -3482016551313489912
+    second: deathlinenyzette_5
+  - first:
+      213: 4649751166493547123
+    second: deathlinenyzette_6
+  - first:
+      213: -6141636439077275900
+    second: deathlinenyzette_7
+  - first:
+      213: -6109029669057757824
+    second: deathlinenyzette_8
+  - first:
+      213: -5054044205181806368
+    second: deathlinenyzette_9
+  - first:
+      213: -7197475730816961168
+    second: deathlinenyzette_10
+  - first:
+      213: -2677285820673576870
+    second: deathlinenyzette_11
+  - first:
+      213: 4469777356558351830
+    second: deathlinenyzette_12
+  - first:
+      213: -7956353392576320520
+    second: deathlinenyzette_13
+  - first:
+      213: -4781175325403082109
+    second: deathlinenyzette_14
+  - first:
+      213: 9120557371252718550
+    second: deathlinenyzette_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deathlinenyzette_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 59
+        width: 153
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50acebb5dd4f25a30800000000000000
+      internalID: 4202690633854274053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 59
+        width: 158
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4100b87b6ab0a0800000000000000
+      internalID: -6865056515879777726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 59
+        width: 167
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70433ee2c823ad0800000000000000
+      internalID: -2723960691597506630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 69
+        width: 173
+        height: 344
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097e5bfa1e3730f0800000000000000
+      internalID: -1137372095280416505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_4
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 74
+        width: 172
+        height: 344
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3714f3315036a200800000000000000
+      internalID: 190893159531943741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_5
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 89
+        width: 157
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800cde425646dafc0800000000000000
+      internalID: -3482016551313489912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_6
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 103
+        width: 123
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5eccec0c378040800000000000000
+      internalID: 4649751166493547123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_7
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 123
+        width: 108
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407343dc23684caa0800000000000000
+      internalID: -6141636439077275900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 148
+        width: 72
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d7d7d02ed583ba0800000000000000
+      internalID: -6109029669057757824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_9
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 167
+        width: 69
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85407a29d6cd9b0800000000000000
+      internalID: -5054044205181806368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_10
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 192
+        width: 58
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f829e4fd6d1c90800000000000000
+      internalID: -7197475730816961168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_11
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 217
+        width: 44
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50bf802bbe58dad0800000000000000
+      internalID: -2677285820673576870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_12
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 226
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddbebae2d6d70e30800000000000000
+      internalID: 4469777356558351830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_13
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 251
+        width: 43
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba3087eba559190800000000000000
+      internalID: -7956353392576320520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_14
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 261
+        width: 44
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3829c709f5ad5adb0800000000000000
+      internalID: -4781175325403082109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathlinenyzette_15
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 266
+        width: 44
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb61b3b9ab29e70800000000000000
+      internalID: 9120557371252718550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

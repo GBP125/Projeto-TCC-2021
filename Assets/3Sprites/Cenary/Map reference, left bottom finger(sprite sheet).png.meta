@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: e9e8797d57219034dbd653cc309b6d73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1337095016122729092
+    second: Map reference, left bottom finger(sprite sheet)_0
+  - first:
+      213: 4757846000406618862
+    second: Map reference, left bottom finger(sprite sheet)_1
+  - first:
+      213: -8045997948251441952
+    second: Map reference, left bottom finger(sprite sheet)_2
+  - first:
+      213: 8253192023496451792
+    second: Map reference, left bottom finger(sprite sheet)_3
+  - first:
+      213: 4600046371972455119
+    second: Map reference, left bottom finger(sprite sheet)_4
+  - first:
+      213: 647725404336739383
+    second: Map reference, left bottom finger(sprite sheet)_5
+  - first:
+      213: -3041799722767303639
+    second: Map reference, left bottom finger(sprite sheet)_6
+  - first:
+      213: 5336014096949280775
+    second: Map reference, left bottom finger(sprite sheet)_7
+  - first:
+      213: 2124882504771989656
+    second: Map reference, left bottom finger(sprite sheet)_8
+  - first:
+      213: 2960789614907175466
+    second: Map reference, left bottom finger(sprite sheet)_9
+  - first:
+      213: 1812111103564318238
+    second: Map reference, left bottom finger(sprite sheet)_10
+  - first:
+      213: -4002465833044768291
+    second: Map reference, left bottom finger(sprite sheet)_11
+  - first:
+      213: -252209265503684009
+    second: Map reference, left bottom finger(sprite sheet)_12
+  - first:
+      213: 8333522137238566793
+    second: Map reference, left bottom finger(sprite sheet)_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 555
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c0fa35d05e8210800000000000000
+      internalID: 1337095016122729092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 66
+        width: 572
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2ef3eaab3470240800000000000000
+      internalID: 4757846000406618862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_3
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 66
+        width: 575
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6e7970b6a398270800000000000000
+      internalID: 8253192023496451792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_5
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 66
+        width: 586
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734dc7dc2de2df800800000000000000
+      internalID: 647725404336739383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_6
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 66
+        width: 589
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cb29ea44b59c5d0800000000000000
+      internalID: -3041799722767303639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_7
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 66
+        width: 588
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700832dbc845d0a40800000000000000
+      internalID: 5336014096949280775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_8
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 66
+        width: 589
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890706641691d7d10800000000000000
+      internalID: 2124882504771989656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_9
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 66
+        width: 586
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a223533c776d61920800000000000000
+      internalID: 2960789614907175466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_10
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 66
+        width: 574
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160e7d9279e52910800000000000000
+      internalID: 1812111103564318238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, left bottom finger(sprite sheet)_12
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 66
+        width: 576
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a37906209ff7cf0800000000000000
+      internalID: -252209265503684009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

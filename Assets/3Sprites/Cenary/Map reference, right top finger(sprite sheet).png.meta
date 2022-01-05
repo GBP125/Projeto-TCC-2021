@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: fa2a571a49f71d346b8eb7139fcf9a9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1982856937632184475
+    second: Map reference, right top finger(sprite sheet)_0
+  - first:
+      213: -356039371565580772
+    second: Map reference, right top finger(sprite sheet)_1
+  - first:
+      213: -8714248569067016938
+    second: Map reference, right top finger(sprite sheet)_2
+  - first:
+      213: 3887650485046968060
+    second: Map reference, right top finger(sprite sheet)_3
+  - first:
+      213: -6054996755841497221
+    second: Map reference, right top finger(sprite sheet)_4
+  - first:
+      213: -2588661016122707173
+    second: Map reference, right top finger(sprite sheet)_5
+  - first:
+      213: -2081415623866232705
+    second: Map reference, right top finger(sprite sheet)_6
+  - first:
+      213: -146172430062282788
+    second: Map reference, right top finger(sprite sheet)_7
+  - first:
+      213: -3147766071303444479
+    second: Map reference, right top finger(sprite sheet)_8
+  - first:
+      213: -48512553568041142
+    second: Map reference, right top finger(sprite sheet)_9
+  - first:
+      213: -897529981313641614
+    second: Map reference, right top finger(sprite sheet)_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 45
+        width: 664
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c300fe1a7b74e0800000000000000
+      internalID: -1982856937632184475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_1
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 45
+        width: 670
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb7c3f3181f0bf0800000000000000
+      internalID: -356039371565580772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_2
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 45
+        width: 670
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ded44b815c01780800000000000000
+      internalID: -8714248569067016938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_3
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 45
+        width: 679
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe791cb485b3f530800000000000000
+      internalID: 3887650485046968060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_4
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 45
+        width: 683
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77cce3088458fba0800000000000000
+      internalID: -6054996755841497221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_5
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 45
+        width: 679
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ba1a658a331cd0800000000000000
+      internalID: -2588661016122707173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_6
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 45
+        width: 679
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70518594835d13e0800000000000000
+      internalID: -2081415623866232705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_7
+      rect:
+        serializedVersion: 2
+        x: 5726
+        y: 45
+        width: 678
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79e2603f0b8fdf0800000000000000
+      internalID: -146172430062282788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_8
+      rect:
+        serializedVersion: 2
+        x: 6525
+        y: 45
+        width: 679
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086eeb8f63e054d0800000000000000
+      internalID: -3147766071303444479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_9
+      rect:
+        serializedVersion: 2
+        x: 7333
+        y: 45
+        width: 670
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470e6de616a35ff0800000000000000
+      internalID: -48512553568041142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map reference, right top finger(sprite sheet)_10
+      rect:
+        serializedVersion: 2
+        x: 8136
+        y: 45
+        width: 664
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739980cc355b83f0800000000000000
+      internalID: -897529981313641614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
